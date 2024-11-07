@@ -1,6 +1,6 @@
 # Iris
 
-This repository is a fork of Iris by VolmitSoftware ([VolmitSoftware Iris repository](https://github.com/VolmitSoftware/Iris)), with the aim of bringing various patches to version 3.4.3.
+This repository is a fork of Iris by VolmitSoftware ([VolmitSoftware Iris repository](https://github.com/VolmitSoftware/Iris)), with the aim of bringing various patches to version 3.X
 Original fork based on 3.4.3.
 
 # [Support](https://discord.gg/3xxPTpT) **|** [Documentation](https://docs.volmit.com/iris/) **|** [Git](https://github.com/IrisDimensions)
