@@ -49,5 +49,4 @@ hs_err_pid*
 replay_pid*
 
 # Specific to project folders
-collection/
 /core/src/main/java/com/volmit/iris/util/uniques/
